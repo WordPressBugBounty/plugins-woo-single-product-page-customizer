@@ -1,0 +1,1 @@
+# plugins-woo-single-product-page-customizer
